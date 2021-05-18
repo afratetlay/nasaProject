@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1484px" height="1400px" viewBox="0 0 1484 1400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 5</title>
+    <defs>
+        <linearGradient x1="49.9922521%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.0000255%" y1="22.4921875%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Website-Design-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.200000003">
+        <g id="NASA---Website-Design-" transform="translate(-435.000000, -2046.000000)">
+            <g id="Group-5" transform="translate(435.000000, 2046.000000)">
+                <rect id="Rectangle-Copy-16" fill="url(#linearGradient-1)" x="799" y="0" width="1" height="1400"></rect>
+                <rect id="Rectangle-Copy-19" fill="url(#linearGradient-1)" x="533" y="0" width="1" height="1400"></rect>
+                <rect id="Rectangle-Copy-20" fill="url(#linearGradient-2)" x="267" y="0" width="1" height="1400"></rect>
+                <rect id="Rectangle-Copy-21" fill="url(#linearGradient-3)" x="0" y="310" width="1" height="1090"></rect>
+                <rect id="Rectangle-Copy-17" fill="url(#linearGradient-1)" x="1049" y="0" width="1" height="1400"></rect>
+                <rect id="Rectangle-Copy-18" fill="url(#linearGradient-1)" x="1315" y="0" width="1" height="1400"></rect>
+                <rect id="Rectangle-Copy-22" fill="url(#linearGradient-1)" transform="translate(783.500000, 1120.000000) rotate(-90.000000) translate(-783.500000, -1120.000000) " x="783" y="420" width="1" height="1400"></rect>
+                <rect id="Rectangle-Copy-24" fill="url(#linearGradient-1)" transform="translate(783.500000, 588.000000) rotate(-90.000000) translate(-783.500000, -588.000000) " x="783" y="-112" width="1" height="1400"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
